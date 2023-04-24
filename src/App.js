@@ -48,7 +48,18 @@ function App() {
           <h2>Huile de palme made in Togo </h2>
           <p>L’usage de l’huile rouge date d’une très ancienne époque selon les récits des africains. Mais depuis l’époque du commerce triangulaire entre l’Europe, l’Afrique et les Amériques, le palmier d’huile rouge, s’est peu à peu fait connaître dans le monde entier</p>
       </section>
-      
+
+      <section className='container-2'>
+           <div className='bt-huile'></div>
+            <p>Consommer la qualité et restez en bonne santé</p>
+      </section>
+      <section className='recette'>
+        <div className="recette-content">
+          <img src="" alt="" />
+          <img src="" alt="" />
+          <img src="" alt="" />
+        </div>
+      </section>
      
     </main>
     
